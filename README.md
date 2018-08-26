@@ -8,6 +8,7 @@ Bird implements the base interface Animal
 Chicken and Duck extends the features of Bird
 Rooster uses association of Bird instead of inheritance
 Parrot implementation: sings the same with the animal it stays and maintainable with other animals too.
+Model swimming animals and animals that change behaviour over time.
 
 Junit Test Case (AnimalTest.java) Test Results:
 
